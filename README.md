@@ -2,8 +2,6 @@
 
 Built with Next.js 14, TypeScript, Payload, and Tailwind CSS
 
-![Project Image](./public/thumbnail.jpg)
-
 ## Features
 
 - Comprehensive marketplace built with Next.js 14
